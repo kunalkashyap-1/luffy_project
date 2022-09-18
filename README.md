@@ -2,11 +2,12 @@
 The project is about image classification using convolutional neural network.
 
 ## Prerequisites
-@ Before we start you need these python library installed in your system.
-> TensorFlow
-> NumPy
-> OpenCV
-> Gradio
+Before we start you need these python library installed in your system.
+    
+    1.TensorFlow
+    2.NumPy
+    3.OpenCV
+    4.Gradio
 
 @ After installing required libraries.
 > download the project in your system.
@@ -23,9 +24,9 @@ The project is about image classification using convolutional neural network.
   though "public URL" you can use this on different devices for instance you phone.
 
 > Now upload a image from these category
-        1.dog			       
-        2.airplane
-        3.car
+    1.dog			       
+    2.airplane
+    3.car
 	4.frog
 	5.horse
 	6.priate ship
