@@ -3,10 +3,10 @@ The project is about image classification using convolutional neural network.
 
 ## Prerequisites
 @ Before we start you need these python library installed in your system.
-	> TensorFlow
-	> NumPy
-	> OpenCV
-	> Gradio
+> TensorFlow
+> NumPy
+> OpenCV
+> Gradio
 
 @ After installing required libraries.
 > download the project in your system.
